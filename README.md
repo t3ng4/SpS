@@ -4,5 +4,5 @@ Two simple bash scripts for scanning. Felt the need for those in CTF when nmap o
 
 # Usage:
 - make them chmod +x
-- adjust ip (range) in script
+- adjust ip in SpS and range in SaS script
 - ./SpS and ./SaS
