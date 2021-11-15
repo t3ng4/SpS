@@ -1,3 +1,2 @@
 # SpS&SaS
-SimplePortScanner
-SimpleAliveScanner
+SimplePortScanner && SimpleAliveScanner
