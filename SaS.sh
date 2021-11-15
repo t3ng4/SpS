@@ -8,5 +8,5 @@ is_alive_ping()
 }
 for t in 10.8.254.{1..254} #adjust range
 do
-is_alive_ping $t &
+is_alive_ping $t & disown
 done
